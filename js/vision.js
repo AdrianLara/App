@@ -20,6 +20,6 @@
 $(document).ready(function(){
 	$("#sendImg").click(function() {
 		$("#results").html("<b>Hola mundo</b>");
-		alert("no vale esta huevada");
+		alert("ok");
 	});
 });
